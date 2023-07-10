@@ -1,7 +1,8 @@
 ## PYTHON FEATURE ILLUSTRATIONS
 ### GENERAL INFO
-Algorithms implementation in Python
+Examples of functions, mechanisms, features in Python
 ### FILES DESCRIPTION
+* dictionary_question.py - Example of dictionary with non unique keys
 * false_is_false_is_false.py – Chained comparisons
 * is_operator.py – Difference between value comparison and identity comparison
 * range.py – Range object
