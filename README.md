@@ -5,6 +5,7 @@ Examples of functions, mechanisms, features in Python
 * dictionary_question.py - Example of dictionary with non unique keys
 * false_is_false_is_false.py – Chained comparisons
 * is_operator.py – Difference between value comparison and identity comparison
+* modulo.py - Example of modulo operation
 * range.py – Range object
 
 ### TECHNOLOGIES & MODULES
