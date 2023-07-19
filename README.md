@@ -2,6 +2,8 @@
 ### GENERAL INFO
 Examples of functions, mechanisms, features in Python
 ### FILES DESCRIPTION
+* default_argument_avoid.py - Incorrect way to use an empty list as an argument to a function
+* default_argument_correct.py - Correct way to use an empty list as an argument to a function
 * dictionary_question.py - Example of dictionary with non unique keys
 * false_is_false_is_false.py – Chained comparisons
 * filter_map.py - Examples of built-in functions filter() and map()
